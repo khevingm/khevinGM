@@ -1,10 +1,10 @@
 ### Hi there 👋
-Hola me llamo khevin, vivo en Peru y me amo la programacion WEB.
+Hola me llamo khevin, vivo en Perú y me amo la programación WEB.
 - Tengo conocimientos en Html y css maquetando con Bootstrap y Materialize.
 - He participado en la creacion de temas para paginas web en wordpress.
 - En FrontEnd dispongo de un nivel intermedio en: JavaScript, Jquery y React js.
 - En Backend dispongo de un nivel intermedio en: PHP, Codeigniter.
-- Puedo crear y manejar base datos y tablas en mysql.
+- Puedo crear y manejar base datos y tablas en MySQL.
 - Eh trabajado con programación esctructurada y programación orientada a objetos (POO).
 - Me encanta poder compartir el conocimiento que voy adquiriendo.
 - 💬 Cualquier duda que tengas en este hermoso mundo de la programación estare encantado en apoyarte.
