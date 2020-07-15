@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Hola me llamo khevin, vivo en Peru y me encanta la tecnologia.
+Tengo conocimientos en Html y css maquetando con Bootstrap y Materialize
 <!--
 **khevinGM/khevinGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
