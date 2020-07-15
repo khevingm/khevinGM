@@ -1,10 +1,15 @@
 ### Hi there 👋
-Hola me llamo khevin, vivo en Peru y me encanta la tecnologia.
-Tengo conocimientos en Html y css maquetando con Bootstrap y Materialize.
-He participado en la creacion de temas para paginas web en wordpress.
-En FrontEnd dispongo de un nivel intermedio en: JavaScript, Jquery y React js.
-En Backend dispongo de un nivel intermedio en: PHP, Codeigniter.
-Eh trabajdo con programacion esctructurada y programacion orientada a objetos (POO).
+Hola me llamo khevin, vivo en Peru y me amo la programacion WEB.
+- Tengo conocimientos en Html y css maquetando con Bootstrap y Materialize.
+- He participado en la creacion de temas para paginas web en wordpress.
+- En FrontEnd dispongo de un nivel intermedio en: JavaScript, Jquery y React js.
+- En Backend dispongo de un nivel intermedio en: PHP, Codeigniter.
+- Puedo crear y manejar base datos y tablas en mysql.
+- Eh trabajado con programación esctructurada y programación orientada a objetos (POO).
+- Me encanta poder compartir el conocimiento que voy adquiriendo.
+- 💬 Cualquier duda que tengas en este hermoso mundo de la programación estare encantado en apoyarte.
+
+
 <!--
 **khevinGM/khevinGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
