@@ -1,26 +1,37 @@
-### Hi there 👋
-Hola me llamo khevin, vivo en Perú y amo la programación WEB.
-- Tengo conocimientos en Html y css maquetando con Bootstrap y Materialize.
-- He participado en la creacion de temas para paginas web en wordpress.
-- En FrontEnd dispongo de un nivel intermedio en: JavaScript, Jquery y React js.
-- En Backend dispongo de un nivel intermedio en: PHP, Codeigniter.
-- Puedo crear y manejar base datos y tablas en MySQL.
-- Eh trabajado con programación esctructurada y programación orientada a objetos (POO).
-- Me encanta poder compartir el conocimiento que voy adquiriendo.
-- 💬 Cualquier duda que tengas en este hermoso mundo de la programación estare encantado en apoyarte.
+# Hola, soy Khevin 👋
 
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador web de Perú, con una gran dedicación por la programación y el aprendizaje continuo.
 
-<!--
-**khevinGM/khevinGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mí
 
-Here are some ideas to get you started:
+Soy desarrollador web con experiencia en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**:
+  - HTML y CSS (con Bootstrap y Materialize)
+  - JavaScript, jQuery, React.js (Nivel Intermedio)
+
+- **Backend**:
+  - PHP, CodeIgniter (Nivel Intermedio)
+  - Administración y creación de bases de datos en MySQL
+
+- **Otras habilidades**:
+  - Desarrollo de temas para páginas web en WordPress
+  - Programación estructurada y orientada a objetos (POO)
+
+## Experiencia
+
+- 🌐 He participado en la creación y maquetación de temas para sitios web en WordPress.
+- 💻 Tengo experiencia en el desarrollo frontend utilizando tecnologías modernas.
+- 🛠️ Soy capaz de manejar bases de datos y crear estructuras eficientes en MySQL.
+
+## Pasión por Compartir Conocimiento
+
+Me encanta poder compartir el conocimiento que voy adquiriendo a lo largo de mi carrera. Si tienes alguna duda en este maravilloso mundo de la programación, estaré encantado de ayudarte.
+
+## Contacto
+
+💬 ¡No dudes en contactarme si tienes alguna pregunta o simplemente quieres charlar sobre tecnología y programación!
+
+---
+
+¡Gracias por visitar mi perfil!
